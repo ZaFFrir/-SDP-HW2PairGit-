@@ -7,4 +7,7 @@ if lotto==first:
 else :
         print('You miss prize!')
         print(lotto)
-
+        
+for i in range(4):
+        lotto2=randint(100,999)
+        print(lotto2)
