@@ -11,3 +11,6 @@ else :
 for i in range(4):
         lotto2=randint(100,999)
         print(lotto2)
+
+lotto3=randint(10,99)
+print(lotto3)
