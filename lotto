@@ -1,8 +1,10 @@
-import random
+from random import randint
 class printLotto:
-#lotto_1st
+  one=086069
+  lotto=randint(000000,999999)
 
 def run_1st:
-
+  if lotto==one:
+    print('congratulation')
 
 return lotto_1st
